@@ -1,4 +1,4 @@
-<?php
+khbjjk<?php
  //connect to mysql server
 include ('dbconnect.php');
 
